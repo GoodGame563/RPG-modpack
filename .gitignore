@@ -3,3 +3,7 @@ instance.cfg
 *.log
 saves
 logs
+kybejs/*
+.minecraft/local/*
+.mixin.out
+.minecraft/enigmatic_persistence.dat
