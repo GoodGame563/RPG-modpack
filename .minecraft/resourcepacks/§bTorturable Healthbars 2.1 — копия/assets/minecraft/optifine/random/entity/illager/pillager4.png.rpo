@@ -1,0 +1,4 @@
+{
+    condition: "builtinaddons.illskills.active",
+    fallback: "assets/minecraft/textures/entity/illager/i/pillager4.png"
+}

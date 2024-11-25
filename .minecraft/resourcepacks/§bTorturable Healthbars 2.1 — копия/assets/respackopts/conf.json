@@ -1,0 +1,29 @@
+{
+    id: "torturablehealthbars",
+    version: 9,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+            "animatedblood": [
+            "active",
+            "inactive"
+        ],
+    "crackingarmor": [
+            "active",
+            "inactive"
+        ],
+    "breezewind": [
+            "active",
+            "inactive"
+        ],
+        builtinaddons: {
+            "greenbleed": [
+            "active",
+            "inactive"
+        ],
+            "illskills": [
+            "active",
+            "inactive"
+        ]
+        }
+    }
+}

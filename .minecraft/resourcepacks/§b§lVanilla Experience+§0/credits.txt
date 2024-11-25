@@ -1,0 +1,54 @@
+CREDITS:
+
+• Vanilla Tweaks | https://vanillatweaks.net/
+Colorful Enchanting Table Particles
+Unique Dyes
+Animated Campfire Items
+Circular Sun and Moon
+Twinkling Stars
+Variated Red Mushroom Blocks
+Variated Bookshelves
+Diminising Tools (modified)
+Sticky Piston Sides
+Groovy Levers
+Visual Honey Stages
+Visual Note Block Pitch
+Lower Fire
+Lower Shield
+Translucent Pumpkin Overlay
+Smoother Font
+Big Dripleaf Stem Fix
+Small Dripleaf Stem Fix
+Pixel Consistent Beacon Beam
+Cloud Fog Fix
+Hopper Bottom Fix
+Tuxedo Cat Fix
+
+• Reijvi | https://www.curseforge.com/members/reijvi/projects
+Pumpkins Reimagined
+Chests Reimagined (only ender chest - modified)
+Reimagined (only debug stick item)
+
+• Xalixilax | https://www.curseforge.com/members/xalixilax/projects
+xali's Enhanced Biomes: River & Pond (only waterlogged rusted rails - modified)
+
+• Gouchnox | https://www.planetminecraft.com/member/gouchnox/submissions
+Unique Spawn Eggs (modified)
+
+• StormDragon77 | https://www.curseforge.com/members/stormdragn77/projects
+Stormilla (only frogspawn, dripleafs, repeater, comparator and boats items - modified)
+
+• Careeoki | https://www.planetminecraft.com/member/careeoki/submissions
+Animated Buckets (modified)
+
+• Fabich_GM | https://www.curseforge.com/members/fabich_gm/projects
+Biomes Wandering Traders (modified)
+
+• Waradu | https://modrinth.com/user/Waradu
+Remodeled Cactus (modified)
+
+• LarsMans | https://www.curseforge.com/members/larsmans/projects
+Better Map Items
+
+• NickName | https://x.com/NicCrimson
+Phantom Elytra (modified)
