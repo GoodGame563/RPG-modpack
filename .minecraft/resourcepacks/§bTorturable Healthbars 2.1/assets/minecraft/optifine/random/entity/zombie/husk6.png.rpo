@@ -1,4 +1,0 @@
-{
-    condition: "builtinaddons.greenbleed.active",
-    fallback: "assets/minecraft/textures/entity/zombie/g/husk6.png"
-}

@@ -5,7 +5,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:false
+enableVsync:true
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -16,7 +16,7 @@ showSubtitles:false
 directionalAudio:false
 touchscreen:false
 fullscreen:false
-bobView:false
+bobView:true
 toggleCrouch:false
 toggleSprint:false
 darkMojangStudiosBackground:false
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:8
+renderDistance:10
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
@@ -41,9 +41,9 @@ graphicsMode:0
 ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
-renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","file/[1.4.1] Enhanced Boss Bars.zip","file/cubic-sun-moon-v1-8a.zip","file/Icons v.1.9.1§7.zip"]
-incompatibleResourcePacks:[]
+renderClouds:"fast"
+resourcePacks:["vanilla","mod_resources","file/Icons v.1.9.1§7.zip","file/Unique Dark 1.20.1 (free).zip","file/cubic-sun-moon-v1-8a.zip","file/enchant icons 1.20 v1.3.zip","builtin/legacy_3d","file/Expressive Fresh Moves v3.0.1.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/§bTorturable Healthbars 2.1.zip","file/Round-Trees-7.1-1.19+ (1).zip","builtin/fresh_animations_compat","witherstormmod:programmer_art","file/FreshAnimations_v1.8.1\u003dвыаы"]
+incompatibleResourcePacks:["file/Round-Trees-7.1-1.19+ (1).zip","file/FreshAnimations_v1.8.1\u003dвыаы"]
 lastServer:
 lang:ru_ru
 soundDevice:""
@@ -63,7 +63,7 @@ chatHeightUnfocused:0.4375
 chatScale:1.0
 chatWidth:1.0
 notificationDisplayTime:1.0
-mipmapLevels:0
+mipmapLevels:2
 useNativeTransport:true
 mainHand:"right"
 attackIndicator:1
