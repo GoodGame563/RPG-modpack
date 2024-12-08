@@ -7,20 +7,26 @@
   "modelExportMode": "NONE",
   "attemptPhysicsModPatch_2": "CUSTOM",
   "modelUpdateFrequency": "Average",
-  "entityRenderModeOverrides": {},
-  "entityPhysicsModPatchOverrides": {},
-  "entityVanillaHologramOverrides": {},
+  "entityRenderModeOverrides": {
+    "entity.minecraft.vex": "NORMAL"
+  },
+  "entityPhysicsModPatchOverrides": {
+    "entity.minecraft.vex": "VANILLA"
+  },
+  "entityVanillaHologramOverrides": {
+    "entity.minecraft.vex": "NORMAL"
+  },
   "modelsNamesDisabled": [],
   "allowEBEModConfigModify": true,
   "animationLODDistance": 20,
   "retainDetailOnLowFps": true,
   "retainDetailOnLargerMobs": true,
   "animationFrameSkipDuringIrisShadowPass": true,
-  "preventFirstPersonHandAnimating": false,
+  "preventFirstPersonHandAnimating": true,
   "onlyClientPlayerModel": false,
   "doubleChestAnimFix": true,
   "variationRequiresDefaultModel": true,
-  "resetPlayerModelEachRender": true,
+  "resetPlayerModelEachRender": false,
   "onlyDebugRenderOnHover": false,
   "enforceOptifineSubFoldersVariantOnly": true,
   "enforceOptiFineAnimSyntaxLimits": true,

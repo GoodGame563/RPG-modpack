@@ -51,10 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "arsmagicalegacy": {
-    "altar": true,
-    "etherium": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,

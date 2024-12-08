@@ -22,7 +22,7 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.24119718309859156
-fov:0.75
+fov:0.275
 screenEffectScale:1.0
 fovEffectScale:1.0
 darknessEffectScale:1.0
@@ -31,7 +31,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:1.0
-renderDistance:10
+renderDistance:8
 simulationDistance:10
 entityDistanceScaling:1.0
 guiScale:3
@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","file/Expressive Fresh Moves v3.0.1.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/animated-items-1_20-1 - 1_4.zip","file/enchant icons 1.20 v1.3.zip","file/cubic-sun-moon-v1-8a.zip","file/Icons v.1.9.1§7.zip","builtin/fresh_animations_compat","file/FA+All_Extensions-v1.4.zip","cullleaves:smartleaves","file/LootBeamsExamples.zip","file/EclecticTrove-noconfig-1.20.1-1.2.0.zip","file/§bTorturable Healthbars 2.1 — копия","file/FreshAnimations_v1.8.1 — копия","file/Unique Dark 1.20.1 (free) — копия"]
-incompatibleResourcePacks:["file/LootBeamsExamples.zip","file/FreshAnimations_v1.8.1 — копия"]
+resourcePacks:["vanilla","mod_resources","file/[1.4.1] Enhanced Boss Bars.zip","file/cubic-sun-moon-v1-8a.zip","file/Icons v.1.9.1§7.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:ru_ru
 soundDevice:""

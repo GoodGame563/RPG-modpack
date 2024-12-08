@@ -101,7 +101,7 @@
 	#Item Config
 	["Loot Beams".Items]
 		#If items should glow.
-		items_glow = true
+		items_glow = false
 		#If all Items Loot Beams should be rendered. Has priority over only_equipment and only_rare.
 		all_items = false
 		#If Loot Beams should only be rendered on items with rarity.
@@ -116,7 +116,7 @@
 	#Item nametags
 	["Loot Beams".Nametags]
 		#If vanilla tooltips should be rendered on items in world.
-		advanced_tooltips = false
+		advanced_tooltips = true
 		#If tooltips should be rendered in world.
 		worldspace_tooltips = true
 		#Render nametags as bordered. Set to false for flat nametag with background.
@@ -153,7 +153,7 @@
 		#If the player should be crouching to see extended advanced tooltips.
 		screen_tooltips_require_crouch = true
 		#If the name and rarity should be combined into one tooltip.
-		combine_name_and_rarity = true
+		combine_name_and_rarity = false
 
 	#Sounds
 	["Loot Beams".Sounds]
