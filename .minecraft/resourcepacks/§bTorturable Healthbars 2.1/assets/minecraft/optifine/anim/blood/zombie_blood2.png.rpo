@@ -1,4 +1,0 @@
-{
-    condition: "builtinaddons.greenbleed.active",
-    fallback: "assets/minecraft/optifine/anim/blood/zombie_blood4.png"
-}
