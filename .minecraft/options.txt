@@ -197,7 +197,6 @@ key_key.paladins_oath.power_button_2:key.keyboard.i
 key_key.paladins_oath.power_button_3:key.keyboard.o
 key_key.paladins_oath.f_8:key.keyboard.f8
 key_key.screenshot_viewer.open_screenshots_screen:key.keyboard.unknown
-key_key.entityculling.toggle:key.keyboard.unknown
 key_key.goety.wand:key.keyboard.z
 key_key.goety.focusCircle:key.keyboard.x
 key_key.goety.bag:key.keyboard.c
@@ -211,6 +210,7 @@ key_key.goety.witch.brewCircle:key.keyboard.j
 key_key.goety.mount.roar:key.keyboard.r
 key_key.goety.mount.freeRoam:key.keyboard.h
 key_key.goety.lich.lichForm:key.keyboard.n
+key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.7894091473509932
 soundCategory_music:0.4690195862676057
 soundCategory_record:1.0
