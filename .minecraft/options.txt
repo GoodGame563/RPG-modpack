@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:3
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/Icons v.1.9.1§7.zip","file/cubic-sun-moon-v1-8a.zip","file/enchant icons 1.20 v1.3.zip","builtin/legacy_3d","file/Expressive Fresh Moves v3.0.1.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/§bTorturable Healthbars 2.1.zip","file/Round-Trees-7.1-1.19+ (1).zip","builtin/fresh_animations_compat","witherstormmod:programmer_art","file/FreshAnimations_v1.8.1\u003dвыаы","file/Unique Dark 1.20.1 (free).zip","file/Arcle\u0027s Medieval Containers.zip","file/Fantasy_Ores_v8[classic].zip","file/crops-3d.zip","file/animated-items-1_20-1 - 1_4.zip","file/RTF_v.2.8.4_1.20.x.zip"]
-incompatibleResourcePacks:["file/Round-Trees-7.1-1.19+ (1).zip","file/FreshAnimations_v1.8.1\u003dвыаы","file/Arcle\u0027s Medieval Containers.zip","file/Fantasy_Ores_v8[classic].zip"]
+resourcePacks:["vanilla","mod_resources","file/Icons v.1.9.1§7.zip","file/cubic-sun-moon-v1-8a.zip","file/enchant icons 1.20 v1.3.zip","builtin/legacy_3d","file/Expressive Fresh Moves v3.0.1.zip","file/[1.4.1] Enhanced Boss Bars.zip","file/§bTorturable Healthbars 2.1.zip","file/Round-Trees-7.1-1.19+ (1).zip","builtin/fresh_animations_compat","witherstormmod:programmer_art","file/FreshAnimations_v1.8.1\u003dвыаы","file/Unique Dark 1.20.1 (free).zip","file/crops-3d.zip","file/animated-items-1_20-1 - 1_4.zip","file/RTF_v.2.8.4_1.20.x.zip","file/Fantasy_Ores_v8[classic].zip","file/Arcle\u0027s Medieval Containers.zip"]
+incompatibleResourcePacks:["file/Round-Trees-7.1-1.19+ (1).zip","file/FreshAnimations_v1.8.1\u003dвыаы","file/Fantasy_Ores_v8[classic].zip","file/Arcle\u0027s Medieval Containers.zip"]
 lastServer:
 lang:ru_ru
 soundDevice:""
@@ -155,7 +155,7 @@ key_key.rpgsmw.armor_ability_use:key.keyboard.z
 key_key.relics.ability_list:key.keyboard.left.alt
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
-key_key.hand_magic.he:key.keyboard.1:CONTROL
+key_key.hand_magic.he:key.keyboard.1:ALT
 key_key.hand_magic.jorp:key.keyboard.2:CONTROL
 key_key.hand_magic.ko:key.keyboard.3:CONTROL
 key_key.hand_magic.execute_spell:key.keyboard.grave.accent:CONTROL
