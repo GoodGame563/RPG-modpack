@@ -15,7 +15,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -152,6 +152,8 @@ key_key.epicfight.config:key.keyboard.unknown
 key_key.modmenu.open_menu:key.keyboard.unknown
 key_key.rpgsmw.weapon_ability_change:key.keyboard.minus
 key_key.rpgsmw.armor_ability_use:key.keyboard.z
+key_placebo.toggleTrails:key.keyboard.keypad.9
+key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.relics.ability_list:key.keyboard.right.alt
 key_fpsreducer.key.openGui:key.keyboard.end
 key_fpsreducer.key.forceIdle:key.keyboard.pause
