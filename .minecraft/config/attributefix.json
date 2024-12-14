@@ -22,6 +22,17 @@
         "value": 512
       }
     },
+    "attributeslib:ghost_health": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "minecraft:generic.follow_range": {
       "enabled": true,
       "min": {
@@ -44,6 +55,17 @@
         "value": 1024
       }
     },
+    "attributeslib:prot_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "obscure_api:dodge": {
       "enabled": false,
       "min": {
@@ -55,6 +77,17 @@
         "value": 100
       }
     },
+    "attributeslib:overheal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "epicfight:weight": {
       "enabled": false,
       "min": {
@@ -64,6 +97,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "attributeslib:armor_shred": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 2,
+        "value": 2
+      }
+    },
+    "attributeslib:healing_received": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "obscure_api:resilience": {
@@ -110,6 +165,17 @@
         "value": 1
       }
     },
+    "attributeslib:armor_pierce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "obscure_api:regeneration": {
       "enabled": false,
       "min": {
@@ -130,6 +196,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "attributeslib:cold_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
+    "attributeslib:experience_gained": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
       }
     },
     "minecraft:generic.luck": {
@@ -286,6 +374,17 @@
         "value": 40000
       }
     },
+    "attributeslib:dodge_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "epicfight:offhand_impact": {
       "enabled": false,
       "min": {
@@ -308,6 +407,17 @@
         "value": 1
       }
     },
+    "attributeslib:fire_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1000,
+        "value": 1000
+      }
+    },
     "minecraft:generic.attack_knockback": {
       "enabled": true,
       "min": {
@@ -317,6 +427,17 @@
       "max": {
         "default": 5,
         "value": 1000000
+      }
+    },
+    "attributeslib:crit_chance": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "forge:swim_speed": {
@@ -372,6 +493,17 @@
       "max": {
         "default": 10,
         "value": 10
+      }
+    },
+    "attributeslib:crit_damage": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "additionalentityattributes:water_visibility": {
@@ -473,6 +605,17 @@
         "value": 1000000
       }
     },
+    "attributeslib:draw_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 4,
+        "value": 4
+      }
+    },
     "epicfight:staminar": {
       "enabled": false,
       "min": {
@@ -517,6 +660,17 @@
         "value": 100
       }
     },
+    "attributeslib:prot_pierce": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 34,
+        "value": 34
+      }
+    },
     "minecraft:generic.flying_speed": {
       "enabled": true,
       "min": {
@@ -548,6 +702,28 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "attributeslib:current_hp_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
+    "attributeslib:mining_speed": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "minecraft:generic.movement_speed": {
@@ -660,6 +836,17 @@
         "value": 100
       }
     },
+    "attributeslib:arrow_damage": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
+      }
+    },
     "minecraft:horse.jump_strength": {
       "enabled": true,
       "min": {
@@ -669,6 +856,17 @@
       "max": {
         "default": 2,
         "value": 2
+      }
+    },
+    "attributeslib:arrow_velocity": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     },
     "minecraft:generic.knockback_resistance": {
@@ -691,6 +889,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "attributeslib:life_steal": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 10,
+        "value": 10
       }
     }
   }
