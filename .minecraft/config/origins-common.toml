@@ -91,3 +91,82 @@
 		"origins:fragile" = true
 		"origins:phantomize_overlay" = true
 
+	[origins."rpg_origins:archer"]
+		enabled = true
+		"rpg_origins:marksman" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:inexperienced" = true
+		"rpg_origins:resourceful" = true
+		"rpg_origins:quiver" = true
+
+	[origins."rpg_origins:bard"]
+		enabled = true
+		"rpg_origins:horn_effects/ponder" = true
+		"rpg_origins:horn_effects/sing" = true
+		"rpg_origins:horn_effects/feel" = true
+		"rpg_origins:horn_effects/admire" = true
+		"rpg_origins:horn_effects/call" = true
+		"rpg_origins:horn_effects/dream" = true
+		"rpg_origins:horn_effects/seek" = true
+		"rpg_origins:horn_effects/yearn" = true
+		"rpg_origins:horn_effects/musical_talent" = true
+		"rpg_origins:musical_past" = true
+		"rpg_origins:decoy" = true
+		"origins:more_exhaustion" = true
+		"rpg_origins:not_the_smartest" = true
+		"rpg_origins:charismatic" = true
+		"rpg_origins:charismatic_toggle" = true
+		"rpg_origins:charismatic_switch_effect" = true
+		"rpg_origins:charismatic_hunger" = true
+
+	[origins."rpg_origins:cleric"]
+		enabled = true
+		"rpg_origins:villagefriendly" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:brewer_jumpboost" = true
+		"rpg_origins:brewer_speed" = true
+		"rpg_origins:brewer_strength" = true
+		"rpg_origins:brewer_regeneration" = true
+		"rpg_origins:heal_pool" = true
+		"rpg_origins:forgivable" = true
+		"rpg_origins:pure" = true
+		"rpg_origins:pure_color" = true
+		"rpg_origins:pure_shake" = true
+		"rpg_origins:one_with_the_world" = true
+
+	[origins."rpg_origins:knight"]
+		enabled = true
+		"rpg_origins:durable" = true
+		"origins:more_exhaustion" = true
+		"rpg_origins:prepared" = true
+		"rpg_origins:trained" = true
+
+	[origins."rpg_origins:brute"]
+		enabled = true
+		"rpg_origins:no_time_to_rest" = true
+		"rpg_origins:no_shield" = true
+		"rpg_origins:strong_arms" = true
+		"rpg_origins:select_targets_strong" = true
+		"rpg_origins:strong_arms_break_speed" = true
+		"rpg_origins:natural_armor" = true
+		"rpg_origins:select_targets_weak" = true
+
+	[origins."rpg_origins:mage"]
+		enabled = true
+		"rpg_origins:fastcure" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:fireball" = true
+		"rpg_origins:water_walk" = true
+		"rpg_origins:unwieldly" = true
+
+	[origins."rpg_origins:thief"]
+		enabled = true
+		"rpg_origins:speedy" = true
+		"rpg_origins:stealthy" = true
+		"origins:no_shield" = true
+		"rpg_origins:better_unnoticed" = true
+		"rpg_origins:uneasy_alliance" = true
+		"rpg_origins:thefty" = true
+		"rpg_origins:stealthy_damage" = true
+		"rpg_origins:weak" = true
+
