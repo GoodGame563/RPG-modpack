@@ -51,6 +51,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "supplementaries": {
+    "hat_stand": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -61,5 +64,13 @@
   },
   "waystones": {
     "waystone": true
+  },
+  "goety": {
+    "block_owner": true,
+    "soul_energy": true,
+    "servant_mode": true,
+    "zombie_villager": true,
+    "villager_profession": true,
+    "summon_lifespan": true
   }
 }
