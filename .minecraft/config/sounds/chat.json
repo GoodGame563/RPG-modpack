@@ -21,7 +21,8 @@
 		"soundEvent": "minecraft:block.note_block.chime"
 	},
 	"mentionKeywords": [
-		"@Hui"
+		"@Hui",
+		"@goodgame56"
 	],
 	"ignoreSystemChats": false,
 	"enableChatSoundCooldown": false,
